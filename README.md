@@ -12,3 +12,4 @@ Pros:
 Cons:
 - Slower than Elytra or boat roads
 - No way to call flying machine back if you travel to a different station on foot
+- Vulnerable to phantoms
